@@ -4,6 +4,13 @@
   GitHub in your pocket. Built with Dart/Flutter.
 </p>
 
+<p align="center">
+  <img src = "https://github.com/Bega007/x-o.OYUN/assets/106582854/07f09c71-cdf0-457e-84f7-80eab59afe30" width=350>
+  <img src = "https://github.com/Bega007/x-o.OYUN/assets/106582854/d630eb8f-b4fe-49dd-ae3a-6bb45fdde42b" width=350>
+  <img src = "https://github.com/Bega007/x-o.OYUN/assets/106582854/a328d4ff-e6b0-4d1d-b44a-c8519bd7473a" width=350>
+</p>
+
+
 ## 🎨 Features
 
 A few of the things you can do with GitPoint:
@@ -18,11 +25,6 @@ A few of the things you can do with GitPoint:
 * Control your unread and participating notifications
 * Easily search for any user or repository
 
-<p align="center">
-  <img src = "https://github.com/Bega007/x-o.OYUN/assets/106582854/07f09c71-cdf0-457e-84f7-80eab59afe30" width=350>
-  <img src = "https://github.com/Bega007/x-o.OYUN/assets/106582854/d630eb8f-b4fe-49dd-ae3a-6bb45fdde42b" width=350>
-  <img src = "https://github.com/Bega007/x-o.OYUN/assets/106582854/a328d4ff-e6b0-4d1d-b44a-c8519bd7473a" width=350>
-</p>
 
 <!-- CONTRIBUTING -->
 ## 💬 Contributing
@@ -38,6 +40,18 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## 🚩 Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
 
 ## 🔧 Acknowledgments
 
